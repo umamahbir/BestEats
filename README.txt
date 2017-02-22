@@ -1,8 +1,6 @@
-Name: Birunthaa Umamahesan
-student number: 1203142
+Web application designed to display the best resturants from the restaurants stored in the database. The possible ratings for the restaurant is 1-5 stars, and only 4-5 stars would be displayed first, following the other restaurants.
 
-link to live website: https://umamahbcs4ww3.crazycode.ca
+Link to static website: https://umamahbir.github.io/
 
-Note: I was not able to deploy my website to the provided domain name. I have built and tested the website locally.
 
 All the scripts are in the scripts folder, as well as the sql script for the database.  
