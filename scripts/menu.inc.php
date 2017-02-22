@@ -1,0 +1,1 @@
+<a href="index.php">Home</a><a href="shared/submission.php">Write a review</a><a href="shared/registration.php">Sign Up</a><a href="shared/logIn.php">Log In</a>	
