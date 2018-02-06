@@ -85,7 +85,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST)) {
 				</div>
 				<div class="sidebox">
 					<span>
-					     <input type="text" name="password" placeholder="Password" value="<?php echo isset($_POST['password']) ? $_POST['password'] : '' ?>">
+					     <input type="password" name="password" placeholder="Password" value="<?php echo isset($_POST['password']) ? $_POST['password'] : '' ?>">
                 		<p id="passwordField"></p>
               		</span> 
 				</div>
